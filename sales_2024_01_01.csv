@@ -1,0 +1,7 @@
+sale_id,sale_date,customer_id,customer_name,product,region,quantity,unit_price,total_amount,status
+S001,2024-01-01,C001,Raj Sharma,Laptop,North,2,55000,110000,Completed
+S002,2024-01-02,C002,Priya Mehta,Mobile,West,5,18000,90000,Completed
+S003,2024-01-03,C003,Amit Verma,Tablet,South,3,25000,75000,Completed
+S004,2024-01-04,C004,Neha Singh,Laptop,East,1,55000,55000,Pending
+S005,2024-01-05,C005,Rohit Gupta,Headphones,North,10,3000,30000,Completed
+S006,2024-01-06,C006,Sneha Joshi,Monitor,West,2,15000,30000,Completed
